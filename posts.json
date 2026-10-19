@@ -1,1 +1,32 @@
-[{"id":"ai-tool-choice","category":"AI Tools","title":"How to Choose the Right AI Tool for Everyday Work","excerpt":"A simple way to find AI tools that solve real problems instead of adding more complexity to your day.","date":"2026-10-19","art":"AI","style":"v1","body":"## Start with the task, not the trend\nAI tools are appearing everywhere. Start by identifying a task that takes too much time.\n\n## Test before committing\nTry a small, low-risk task first and check the quality of the result.\n\n## The takeaway\nChoose tools based on practical value."},{"id":"digital-productivity","category":"Productivity","title":"5 Simple Ways to Improve Your Digital Workflow","excerpt":"Small improvements to task lists, file names, templates, and routines can make daily work easier to manage.","date":"2026-10-19","art":"FLOW","style":"v2","body":"## 1. Keep tasks in one place\nChoose one trusted task list.\n\n## 2. Use clear file names\nA consistent name makes documents easier to find.\n\n## 3. Create reusable templates\nPrepare a checklist or template for repeated tasks.\n\n## Conclusion\nStart with one change, keep it simple, and continue with habits that help."},{"id":"learn-tech-safely","category":"Technology","title":"A Beginner’s Checklist for Trying New Digital Services Safely","excerpt":"Before creating an account or uploading files, check privacy, security, pricing, and data handling.","date":"2026-10-19","art":"SAFE","style":"v3","body":"## Check the source\nUse the official website or app store listing.\n\n## Understand the data you share\nDo not share passwords or private documents in tools you do not trust.\n\n## Secure your account\nUse a unique password and multi-factor authentication when available."}]
+[
+  {
+    "id": "ai-tool-choice",
+    "category": "AI Tools",
+    "title": "How to Choose the Right AI Tool for Everyday Work",
+    "excerpt": "A simple way to find AI tools that solve real problems instead of adding more complexity to your day.",
+    "date": "2026-10-19",
+    "art": "AI",
+    "style": "v1",
+    "body": "## Start with the task, not the trend\nAI tools are appearing everywhere, but the best tool is not always the newest or most popular. Start by identifying a task that takes too much time, happens repeatedly, or is difficult to begin.\n\n## Ask three useful questions\n- What exact task do I want to improve?\n- How often do I do it?\n- What would a useful result look like?\n\n## Test before committing\nTry a small, low-risk task first. Check the quality of the result, how much editing it needs, and whether the service's privacy terms fit your needs. Avoid uploading confidential information unless you understand how it may be handled.\n\n## Make the workflow repeatable\nA useful AI workflow has a clear input, a defined task, and a way to check the output. Save prompts that work, but verify important facts and decisions yourself.\n\n## The takeaway\nChoose tools based on practical value. One reliable tool that fits your workflow can be more useful than a long list of apps you rarely use."
+  },
+  {
+    "id": "digital-productivity",
+    "category": "Productivity",
+    "title": "5 Simple Ways to Improve Your Digital Workflow",
+    "excerpt": "Small improvements to task lists, file names, templates, and routines can make daily work easier to manage.",
+    "date": "2026-10-19",
+    "art": "FLOW",
+    "style": "v2",
+    "body": "## 1. Keep tasks in one place\nChoose one trusted task list and capture new work there. This reduces the mental effort of remembering tasks scattered across messages and notes.\n\n## 2. Use clear file names\nA consistent name that includes the project, topic, and date makes documents easier to find later.\n\n## 3. Create reusable templates\nFor repeated tasks, prepare a checklist or template. Examples include weekly reports, meeting notes, and client updates.\n\n## 4. Batch similar work\nTry answering routine messages together or handling admin tasks in a dedicated block of time.\n\n## 5. Review and improve\nAt the end of the week, identify one frustrating step and make a small improvement. Productivity is about making useful work easier, not filling every minute.\n\n## Conclusion\nStart with one change, keep it simple, and continue with the habits that genuinely help."
+  },
+  {
+    "id": "learn-tech-safely",
+    "category": "Technology",
+    "title": "A Beginner's Checklist for Trying New Digital Services Safely",
+    "excerpt": "Before creating an account or uploading files, take a moment to check privacy, security, pricing, and data handling.",
+    "date": "2026-10-19",
+    "art": "SAFE",
+    "style": "v3",
+    "body": "## Check the source\nUse the official website or app store listing, and check the developer name carefully. Be cautious with unexpected links and download prompts.\n\n## Understand the data you share\nRead what information a service collects and how it uses uploaded files. Do not share passwords, payment details, or private work documents in tools that you do not trust.\n\n## Check pricing and cancellation\nLook for renewal dates, usage limits, and cancellation instructions before starting a trial.\n\n## Secure your account\nUse a unique password and turn on multi-factor authentication when available.\n\n## Keep control\nReview app permissions occasionally and remove access you no longer need. A few simple checks can reduce avoidable risks while you explore new technology."
+  }
+]
