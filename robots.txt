@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://dineshmadusankadev.github.io/techloom-blog/sitemap.xml
